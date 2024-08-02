@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "ESP32_Marauder_try1",
+			"path": "../../ESP32_Marauder_try1"
+		}
+	],
+	"settings": {}
+}
